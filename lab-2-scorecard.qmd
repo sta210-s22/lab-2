@@ -1,0 +1,65 @@
+---
+title: "Lab 2 - College scorecard"
+subtitle: "STA 210 - Spring 2022"
+author: "Add your name here"
+date: "Add the date here"
+format: pdf
+editor: visual
+---
+
+## Setup
+
+Load packages and data:
+
+```{r load-pkg-data}
+#| message: false
+library(tidyverse)
+library(tidymodels)
+library(knitr)
+
+scorecard <- read_csv("data/scorecard.csv")
+```
+
+## Exercises
+
+### Exercise 1
+
+```{r label-me-something-meaningful}
+# add code here
+```
+
+### Exercise 2
+
+...
+
+### Exercise 3
+
+...
+
+### Exercise 4
+
+...
+
+### Exercise 5
+
+...
+
+### Exercise 6
+
+...
+
+### Exercise 7
+
+...
+
+### Exercise 8
+
+...
+
+### Exercise 9
+
+...
+
+### Exercise 10
+
+...
